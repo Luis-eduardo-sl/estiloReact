@@ -1,0 +1,29 @@
+.contanier{
+    width: 250;
+    height: 350;
+    background-color: grey;
+    border-radius: 7px;
+}
+
+.img{
+ margin-top: 10px;
+ width: 65px;
+ height: 65px;
+ border-radius: 20%;
+}
+
+.titulo{
+ text-align: justify;
+ color: white;
+ font-size: 20px;
+ margin-left:  10px;
+ margin-right:  10px;
+}
+
+.texto{
+ color: white;
+ text-align: justify;
+ font-size: 15px;
+ margin-left:  10px;
+ margin-right:  10px;
+}
